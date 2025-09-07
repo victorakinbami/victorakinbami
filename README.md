@@ -2,3 +2,4 @@
 
 Data Platform Engineer • Data Engineer
 
+📫 Reach me: akinbami.victor@gmail.com
