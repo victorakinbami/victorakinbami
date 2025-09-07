@@ -1,7 +1,7 @@
-    <p align="center">
+<p align="center">
     
-  ## Hi there 👋 I am Victor Akinbami
-    </p>
+## Hi there 👋 I am Victor Akinbami
+</p>
   
   ### Data Platform Engineer • Data Engineer
 
