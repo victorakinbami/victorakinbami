@@ -3,8 +3,9 @@
 
 ### Data Platform Engineer • Data Engineer
 
-📫 Reach me: akinbami.victor@gmail.com
 
+📫 Reach me: akinbami.victor@gmail.com
+## Languages and Tools
 
 
 
