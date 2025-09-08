@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋 I am Victor Akinbami</h2>
+<h2 align="center">Hi there 👋, I'm Victor Akinbami</h2>
 
 
 <h2 align="center">Data Platform Engineer • Data Engineer</h2>
@@ -15,7 +15,7 @@
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=airbyte)
 ![Linux](https://skillicons.dev/icons?i=linux)
 
-
+_____________________________________________________________________________________________________________________________________________________________________
 
 
 
