@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋, I'm Victor Akinbami</h2>
 
 
-<h2 align="center">Data Platform Engineer • Data Engineer</h2>
+<h2 align="center">Data Engineer</h2>
   
 📫 Reach me: akinbami.victor@gmail.com
 
