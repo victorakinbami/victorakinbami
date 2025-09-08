@@ -13,9 +13,16 @@
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 ![Terraform](https://skillicons.dev/icons?i=terraform)
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=airbyte)
-![Airflow](https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow-logo/svg/apache-airflow-logo.svg)
 ![Linux](https://skillicons.dev/icons?i=linux)
-![Minikube](https://raw.githubusercontent.com/kubernetes/minikube/master/docs/images/minikube-logo.svg)
+
+
+
+
+
+
+
+
+
 
 
 
